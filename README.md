@@ -1,1 +1,3 @@
-# Preparing for Class
+# ESM, Webpack, Parcel 등의 모듈방식을 사용하지 않았을때 전역 네임스페이스의 오염을 막기 위해 사용했던 모듈 패턴입니다.
+
+root/src/js 디렉토리에 있는 코드들을 ES NEXT 코드로 바꿔보며 ESM 방식 또는 특정 모듈러를 사용하며 바꿔보기 위한 예제입니다.
